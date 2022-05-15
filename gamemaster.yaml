@@ -1,5 +1,6 @@
 payload:
 
+  # Kelompok Game Gabungan
   - '+.touchbeam.com'
   - '+.pstatp.com'
   - '+.unity3d.com'
@@ -9,3 +10,14 @@ payload:
   - '+.hotelhideawaythegame.com'
   - '+.helpshift.com'
   - '+.unity3d.com'
+
+  # Kelompok Game Khusus PUBG Master
+  - '+.pubgmobile.com'
+  - '+.igamecj.com'
+  - '+.krafton.com'
+  - '+.gjacky.com'
+  - '+.anticheatexpert.com'
+  - '+.tdatamaster.com'
+  - '+.amsoveasea.com'
+  - '+.gcloudcs.com'
+  - '+.proximabeta.com'
