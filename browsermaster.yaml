@@ -1,5 +1,6 @@
 payload:
 
+  # Kelompok Speedtest Master
   - '+.starhub.com'
   - '+.iconpln.net.id'
   - '+.indosat.com'
@@ -10,3 +11,23 @@ payload:
   - '+.speedtest.net'
   - '+.cbn.id' 
   - '+.termux.net'
+
+  # Kelompok Browsing Master
+  - '+.google.com'
+  - '+.google.co.id'
+  - '+.googleusercontent.com'
+  - '+.yahoo.com'
+  - '+.yahoo.co.id'
+  - '+.bing.com'
+  - '+.microsoft.com'
+  - '+.live.com'
+  - '+.skype.com'
+  - '+.opera.com'
+  - '+.ucweb.com'
+  - '+.yandex.com'
+  - '+.chromium.com'
+  - '+.chrome.com'
+  - '+.cloudflare.com'
+  - '+.cloudflare.org'
+  - '+.mozilla.com'
+  - '+.githubusercontent.com'
