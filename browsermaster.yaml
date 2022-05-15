@@ -53,3 +53,15 @@ payload:
   - '+.svc.ms'
   - '+.office.com'
   - '+.officeppe.com'
+
+  # Kelompok Onlineshop Master
+  - '+.shopee.co.id'
+  - '+.shopee.com'
+  - '+.shopee.sg'
+  - '+.lazada.co.id'
+  - '+.lazada.com'
+  - '+.lazada.sg'
+  - '+.bukalapak.com'
+  - '+.tokopedia.com'
+  - '+.alibaba.com'
+  - '+.alicdn.com'
