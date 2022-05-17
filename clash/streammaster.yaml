@@ -8,21 +8,21 @@ payload:
   - '+.ttvnw.net"
   - '+.twitch.tv'
   - '+.twitchcdn.net'
-  - '+.*.rootonline.de'
+  - '+.rootonline.de'
 
   # (Music)
   # > Deezer
-  - '+.*.android.app'
+  - '+.android.app'
   - '+.deezer.com'
   - '+.dzcdn.net'
   
   # > JOOX
-  - '+.*.ibg.joox
-  - '+.*.ibg.jooxtv'
+  - '+.ibg.joox
+  - '+.ibg.jooxtv'
   - '+.joox.com'
   
   # > KKBOX
-  - '+.*.kkbox.android'
+  - '+.kkbox.android'
   - '+.kkbox.com'
   - '+.kkbox.com.tw'
   - '+.kfs.io'
@@ -32,7 +32,7 @@ payload:
   - '+.pandora.com'
   
   # > SoundCloud
-  - '+..soundcloud.android'
+  - '+.soundcloud.android'
   - '+.p-cdn.us'
   - '+.sndcdn.com'
   - '+.soundcloud.com'
@@ -45,17 +45,12 @@ payload:
   - '+.spoti.fi'
   
   # > TIDAL
-  - '+.*.aspiro.tidal'
+  - '+.aspiro.tidal'
   - '+.tidal.com'
   
   # > YouTubeMusic
-  - '+.*.*.*.youtube.music'
-  - '+.*.*.youtube.tvmusic'
-
-  # Podcast
-  # > Himalaya
-  - '+.ximalaya.*.himalaya'
-  - '+.himalaya.com'
+  - '+.youtube.music'
+  - '+.youtube.tvmusic'
 
   # (Video)
   # > AbemaTV
@@ -70,7 +65,7 @@ payload:
   - '+.channel4.com'
   
   # > club Amazon Prime Video
-  - '+.*.amazon.*.thirdp'
+  - '+.amazon.thirdp'
   - '+.aiv-cdn.net'
   - '+.aiv-delivery.net'
   - '+.amazonvideo.com'
@@ -81,17 +76,16 @@ payload:
   - '+.cloudfront.net'
   
   # > Apple Music TV
-  - '+.*.applemusic.com'
+  - '+.applemusic.com'
   
   # > Apple TV
-  - '+.*.apple.com'
-  - '+.*.*.apple.com'
+  - '+.apple.com'
   
   # > Bahamut
-  - '+.*.*.*.android.animad'
-  - '+.*.com.tw'
-  - '+.*.akamaized.net'
-  - '+.*.*.hinet.net'
+  - '+.android.animad'
+  - '+.com.tw'
+  - '+.akamaized.net'
+  - '+.hinet.net'
   
   # > BBC iPlayer
   - '+.iplayer.android'
@@ -101,8 +95,8 @@ payload:
   # > bilibili Intl
   - '+.bstar.intl'
   - '+.biliintl.com'
-  - '+.*.biliapi.net'
-  - '+.*.bstarstatic.com'
+  - '+.biliapi.net'
+  - '+.bstarstatic.com'
   
   # > DAZN
   - '+.com.dazn'
@@ -112,13 +106,13 @@ payload:
   - '+.indazn.com'
   
   # > discovery+
-  - '+.*.*.discoveryplus.mobile'
+  - '+.discoveryplus.mobile'
   - '+.disco-api.com'
   - '+.discoveryplus.co.uk'
   - '+.discoveryplus.com'
   - '+.discoveryplus.in'
   - '+.dnitv.com'
-  - '+.*.uplynk.com'
+  - '+.uplynk.com'
 
   # > Disney+
   - '+.disney.disneyplus'
@@ -130,7 +124,7 @@ payload:
   - '+.cdn.registerdisney.go.com'
   
   # > DMM
-  - '+.*.app.movieplayer'
+  - '+.app.movieplayer'
   - '+.dmm.co.jp'
   - '+.dmm.com'
   - '+.dmm-extension.com'
@@ -138,7 +132,7 @@ payload:
   # > encoreTVB
   - '+.tvbusa.encore'
   - '+.encoretvb.com'
-  - '+.*.*.brightcove.com'
+  - '+.brightcove.com'
   
   # > HBO NOW & Max
   - '+.hbo.hbonow'
@@ -152,10 +146,10 @@ payload:
   - '+.hbo.hbogo'
   - '+.hbogoasia.com'
   - '+.hbogoasia.hk'
-  - '+.*.*.*.boltdns.net'
-  - '+.*.onwardsmg.com'
-  - '+.*.evergent.com'
-  - '+.*.brightcove.net'
+  - '+.boltdns.net'
+  - '+.onwardsmg.com'
+  - '+.evergent.com'
+  - '+.brightcove.net'
 
   # > 华文电视
   - '+.5itv.tv'
@@ -186,14 +180,14 @@ payload:
   - '+.kktv.kktv'
   - '+.kktv.com.tw'
   - '+.kktv.me'
-  - '+.*.kk.stream'
+  - '+.kk.stream'
   
   # > LINE TV
   - '*.linecorp.linetv'
   - '+.linetv.tw'
 
   # > LiTV
-  - '+.*.*.gp.litv'
+  - '+.gp.litv'
   - '+.litv.tv'
   
   # > My5
@@ -207,7 +201,7 @@ payload:
   - '+.tvb.com'
   
   # > Naver TV
-  - '+.*.android.naverplayer'
+  - '+.android.naverplayer'
   - '+.naver.com'
   - '+.smartmediarep.com'
   
@@ -239,8 +233,8 @@ payload:
   - '+.cbsivideo.com'
   - '+.paramountplus.com'
   - '+.pplusstatic.com'
-  - '+.*.*.irdeto.com'
-  - '+.*.syncbak.com'
+  - '+.irdeto.com'
+  - '+.syncbak.com'
   - '+.theplatform.com'
   
   # > PBS
@@ -257,7 +251,7 @@ payload:
   - '+.emome.net'
   
   # > TikTok
-  - '+.*.*.ugc.trill'
+  - '+.ugc.trill'
   - '+.byteoversea.com'
   - '+.ibytedtos.com'
   - '+.muscdn.com'
@@ -270,13 +264,13 @@ payload:
   # > TVer
   - '+.hamitv.hamiand1'
   - '+.tver.jp'
-  - '+.*.*.brightcove.com'
+  - '+.brightcove.com'
   
   # > ViuTV
   - '+.hktve.viutv'
   - '+.viu.com'
   - '+.viu.tv'
-  - '+.*.*.now.com'
+  - '+.now.com'
   
   # > WeTV
   - '+.tencent.qqlivei18n'
@@ -284,8 +278,8 @@ payload:
   - '+.wetvinfo.com'
   
   # > YouTube
-  - '+.*.android.youtube'
-  - '+.*.*.youtube.tv'
+  - '+.android.youtube'
+  - '+.youtube.tv'
   - '+.googlevideo.com'
   - '+.withyoutube.com'
   - '+.youtu.be'
