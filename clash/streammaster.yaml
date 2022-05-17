@@ -1,7 +1,300 @@
 payload:
 
-  - '+.youtube.com'
+  # Streaming Media master
+  # (Live)
+  # > Twitch
+  - '+.ext-twitch.tv'
+  - '+.jtvnw.net'
+  - '+.ttvnw.net"
+  - '+.twitch.tv'
+  - '+.twitchcdn.net'
+  - '+.*.rootonline.de'
+
+  # (Music)
+  # > Deezer
+  - '+.*.android.app'
+  - '+.deezer.com'
+  - '+.dzcdn.net'
+  
+  # > JOOX
+  - '+.*.ibg.joox
+  - '+.*.ibg.jooxtv'
+  - '+.joox.com'
+  
+  # > KKBOX
+  - '+.*.kkbox.android'
+  - '+.kkbox.com'
+  - '+.kkbox.com.tw'
+  - '+.kfs.io'
+  
+  # > Pandora
+  - '+.pandora.android'
+  - '+.pandora.com'
+  
+  # > SoundCloud
+  - '+..soundcloud.android'
+  - '+.p-cdn.us'
+  - '+.sndcdn.com'
+  - '+.soundcloud.com'
+  
+  # > Spotify
+  - '+.spotify.music'
+  - '+.pscdn.co'
+  - '+.scdn.co'
+  - '+.spotify.com'
+  - '+.spoti.fi'
+  
+  # > TIDAL
+  - '+.*.aspiro.tidal'
+  - '+.tidal.com'
+  
+  # > YouTubeMusic
+  - '+.*.*.*.youtube.music'
+  - '+.*.*.youtube.tvmusic'
+
+  # Podcast
+  # > Himalaya
+  - '+.ximalaya.*.himalaya'
+  - '+.himalaya.com'
+
+  # (Video)
+  # > AbemaTV
+  - '+.tv.abema'
+  - '+.abema.io'
+  - '+.abema.tv'
+  - '+.ameba.jp'
+  - '+.hayabusa.io'
+  - '+.akamaized.net'
+  - '+.channel4.ondemand'
+  - '+.c4assets.com'
+  - '+.channel4.com'
+  
+  # > club Amazon Prime Video
+  - '+.*.amazon.*.thirdp'
+  - '+.aiv-cdn.net'
+  - '+.aiv-delivery.net'
+  - '+.amazonvideo.com'
+  - '+.primevideo.com'
+  - '+.pv-cdn.net'
+  - '+.amazon.com'
+  - '+.akamaihd.net'
+  - '+.cloudfront.net'
+  
+  # > Apple Music TV
+  - '+.*.applemusic.com'
+  
+  # > Apple TV
+  - '+.*.apple.com
+  - '+.*.*.apple.com
+  
+  # > Bahamut
+  - '+.*.*.*.android.animad'
+  - '+.*.com.tw'
+  - '+.*.akamaized.net'
+  - '+.*.*.hinet.net'
+  
+  # > BBC iPlayer
+  - +.iplayer.android'
+  - '+.bbc.co.uk'
+  - '+.bbci.co.uk'
+  
+  # > bilibili Intl
+  - '+.bstar.intl'
+  - '+.biliintl.com'
+  - '+.*.biliapi.net'
+  - '+.*.bstarstatic.com'
+  
+  # > DAZN
+  - '+.com.dazn'
+  - '+.dazn.com'
+  - '+.dazn-api.com'
+  - '+.dazndn.com'
+  - '+.indazn.com'
+  
+  # > discovery+
+  - '+.*.*.discoveryplus.mobile'
+  - '+.disco-api.com'
+  - '+.discoveryplus.co.uk'
+  - '+.discoveryplus.com'
+  - '+.discoveryplus.in'
+  - '+.dnitv.com'
+  - '+.*.uplynk.com'
+
+  # > Disney+
+  - '+.disney.disneyplus'
+  - '+.bamgrid.com'
+  - '+.disneyplus.com'
+  - '+.disney-plus.net'
+  - '+.disneystreaming.com'
+  - '+.dssott.com'
+  - '+.cdn.registerdisney.go.com'
+  
+  # > DMM
+  - '+.*.app.movieplayer'
+  - '+.dmm.co.jp'
+  - '+.dmm.com"
+  - '+.dmm-extension.com'
+  
+  # > encoreTVB
+  - '+.tvbusa.encore'
+  - '+.encoretvb.com'
+  - '+.*.*.brightcove.com'
+  
+  # > HBO NOW & Max
+  - '+.hbo.hbonow'
+  - '+.hbo.com'
+  - '+.hbogo.com'
+  - '+.hbonow.com'
+  - '+.hbomax.com'
+  - '+.hbomaxcdn.com'
+  
+  # > HBO Asia
+  - '+.hbo.hbogo'
+  - '+.hbogoasia.com'
+  - '+.hbogoasia.hk'
+  - '+.*.*.*.boltdns.net'
+  - '+.*.onwardsmg.com'
+  - '+.*.evergent.com'
+  - '+.*.brightcove.net'
+
+  # > 华文电视
+  - '+.5itv.tv'
+  - '+.ocnttv.com'
+  
+  # > Hulu
+  - '+.hulu.plus'
+  - '+.hulu.com'
+  - '+.huluim.com'
+  - '+.hulustream.com'
+  
+  # > Hulu / フールー
+  - '+.happyon.android'
+  - '+.happyon.jp'
+  - '+.hjholdings.jp'
+  - '+.hulu.jp'
+  
+  # > ITV
+  - '+.air.ITVMobilePlayer'
+  - '+.itv.com'
+  - '+.itvstatic.com'
+  
+  # > iQIYI
+  - '+.iq.com'
+  - '+.iqiyi.com
+
+  # > KKTV
+  - '+.kktv.kktv'
+  - '+.kktv.com.tw'
+  - '+.kktv.me'
+  - '+.*.kk.stream'
+  
+  # > LINE TV
+  - '*.linecorp.linetv'
+  - '+.linetv.tw'
+
+  # > LiTV
+  - '+.*.*.gp.litv'
+  - '+.litv.tv'
+  
+  # > My5
+  - '+.mobileiq.demand5'
+  - '+.channel5.com'
+  - '+.my5.tv'
+  
+  # > myTV SUPER
+  - '+.tvb.mytvsuper'
+  - '+.mytvsuper.com'
+  - '+.tvb.com'
+  
+  # > Naver TV
+  - '+.*.android.naverplayer'
+  - '+.naver.com'
+  - '+.smartmediarep.com'
+  
+  # > Netflix
+  - '+.netflix.mediaclient'
+  - '+.netflix.com'
+  - '+.netflix.net'
+  - '+.nflxext.com'
+  - '+.nflximg.com'
+  - '+.nflximg.net'
+  - '+.nflxso.net'
+  - '+.nflxvideo.net'
+  
+  # > niconico
+  - '+.nicovideo.android
+  - '+.dmc.nico'
+  - '+.nicovideo.jp'
+  - '+.nimg.jp'
+  
+  # > Now E
+  - '+.pccw.nowemobile'
+  - '+.nowe.com'
+  - '+.nowestatic.com'
+  
+  # > Paramount+
+  - '+.cbs.app'
+  - '+.cbsi.com'
+  - '+.cbsaavideo.com'
+  - '+.cbsivideo.com'
+  - '+.paramountplus.com'
+  - '+.pplusstatic.com'
+  - '+.*.*.irdeto.com'
+  - '+.*.syncbak.com'
+  - '+.theplatform.com'
+  
+  # > PBS
+  - '+.pbs.video'
+  - '+.pbs.org'
+  
+  # > Peacock
+  - '+.peacocktv.peacockandroid'
+  - '+.peacocktv.com'
+  
+  # > 台湾好
+  - '+.twgood.android'
+  - '+.com.tw'
+  - '+.emome.net'
+  
+  # > TikTok
+  - '+.*.*.ugc.trill'
+  - '+.byteoversea.com'
+  - '+.ibytedtos.com'
+  - '+.muscdn.com'
+  - '+.musical.ly'
+  - '+.tiktok.com'
+  - '+.tik-tokapi.com'
+  - '+.tiktokcdn.com'
+  - '+.tiktokv.com'
+
+  # > TVer
+  - '+.hamitv.hamiand1'
+  - '+.tver.jp'
+  - '+.*.*.brightcove.com'
+  
+  # > ViuTV
+  - '+.hktve.viutv'
+  - '+.viu.com'
+  - '+.viu.tv'
+  - '+.*.*.now.com'
+  
+  # > WeTV
+  - '+.tencent.qqlivei18n'
+  - '+.wetv.vip'
+  - '+.wetvinfo.com'
+  
+  # > YouTube
+  - '+.*.android.youtube
+  - '+.*.*.youtube.tv
+  - '+.googlevideo.com'
+  - '+.withyoutube.com'
   - '+.youtu.be'
+  - '+.youtube.com'
+  - '+.youtubeeducation.com'
+  - '+.youtubegaming.com'
+  - '+.youtubekids.com'
+  - '+.youtube-nocookie.com'
+  - '+.yt.be'
   - '+.ytimg.com'
   - '+.googleapis.com'
   - '+.ggpht.com'
