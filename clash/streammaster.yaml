@@ -5,7 +5,7 @@ payload:
   # > Twitch
   - '+.ext-twitch.tv'
   - '+.jtvnw.net'
-  - '+.ttvnw.net"
+  - '+.ttvnw.net'
   - '+.twitch.tv'
   - '+.twitchcdn.net'
   - '+.rootonline.de'
@@ -17,7 +17,7 @@ payload:
   - '+.dzcdn.net'
   
   # > JOOX
-  - '+.ibg.joox
+  - '+.ibg.joox'
   - '+.ibg.jooxtv'
   - '+.joox.com'
   
