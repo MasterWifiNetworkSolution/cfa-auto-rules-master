@@ -84,8 +84,8 @@ payload:
   - '+.*.applemusic.com'
   
   # > Apple TV
-  - '+.*.apple.com
-  - '+.*.*.apple.com
+  - '+.*.apple.com'
+  - '+.*.*.apple.com'
   
   # > Bahamut
   - '+.*.*.*.android.animad'
@@ -94,7 +94,7 @@ payload:
   - '+.*.*.hinet.net'
   
   # > BBC iPlayer
-  - +.iplayer.android'
+  - '+.iplayer.android'
   - '+.bbc.co.uk'
   - '+.bbci.co.uk'
   
@@ -132,7 +132,7 @@ payload:
   # > DMM
   - '+.*.app.movieplayer'
   - '+.dmm.co.jp'
-  - '+.dmm.com"
+  - '+.dmm.com'
   - '+.dmm-extension.com'
   
   # > encoreTVB
@@ -284,8 +284,8 @@ payload:
   - '+.wetvinfo.com'
   
   # > YouTube
-  - '+.*.android.youtube
-  - '+.*.*.youtube.tv
+  - '+.*.android.youtube'
+  - '+.*.*.youtube.tv'
   - '+.googlevideo.com'
   - '+.withyoutube.com'
   - '+.youtu.be'
