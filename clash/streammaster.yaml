@@ -4,15 +4,15 @@ payload:
   # Dilarang copy tanpa izin
   # Ini Rule Premium
   
-  # > All 4
+  # > channel4
   - '+.com.channel4.ondemand'
   - '+.c4assets.com'
   - '+.channel4.com'
   
-  # > Amazon Prime Video
+  # > Amazon Prime
   - '+.com.amazon.avod.thirdp'
-  - '+.aiv-cdn.net'
-  - '+.aiv-delivery.net'
+  - '+.cdn.net'
+  - '+.delivery.net'
   - '+.amazonvideo.com'
   - '+.primevideo.com'
   - '+.amazon.com'
@@ -56,7 +56,6 @@ payload:
   # > Discovery Plus
   - '+.com.discovery.discoveryplus.mobile'
   - '+.content-ause1-ur-discovery1.uplynk.com'
-  - '+.disco-api.com'
   - '+.discoveryplus.com'
   - '+.fwmrm.net'
   - '+.getblueshift.com'
@@ -67,7 +66,7 @@ payload:
   # > Disney Plus
   - '+.com.disney.disneyplus'
   - '+.adobedtm.com'
-  - '+.bam.nr-date.net'
+  - '+.bam.*.net'
   - '+.bamgrid.com'
   - '+.braze.com'
   - '+.cdn.optimizely.com'
@@ -80,14 +79,14 @@ payload:
   - '+.disneyplus.com'
   - '+.disneyplus.com.ssl.sc.omtrdc.net'
   - '+.disney-plus.net'
-  - '+.disney-portal.my.onetrust.com'
+  - '+.my.onetrust.com'
   - '+.dssott.com'
-  - '+.execute-api.us-east-1.amazonaws.com'
-  - '+.js-agent.newrelic.com'
+  - '+.amazonaws.com'
+  - '+.newrelic.com'
   
   # > Hulu(フールー)
   - '+.com.hulu.plus'
-  - '+.cws-hulu.conviva.com'
+  - '+.conviva.com'
   - '+.hulu.com'
   - '+.hulu.hb.omtrdc.net'
   - '+.hulu.sc.omtrdc.net'
@@ -126,7 +125,7 @@ payload:
   - '+.com.kktv.kktv'
   - '+.kktv.me'
   - '+.kktv.com.tw'
-  - '+.kktv-theater.kk.stream'
+  - '+.kk.stream'
   
   # > letv
   - '+.api.mob.app.letv.com'
