@@ -143,7 +143,7 @@ payload:
   # > Netease Music
   - '+.163yun.com'
   - '+.api.iplay.163.com'
-  - '+.hz.net'ease.com'
+  - '+.hz.netease.com'
   - '+.mam.netease.com'
   - '+.music.163.com'
   
@@ -199,11 +199,10 @@ payload:
   
   - '+.bootstrapcdn.com'
   - '+.cloudfront.net'
-  - '+.cognito-identity.us-east-1.amazonaws.com'
+  - '+.amazonaws.com'
   - '+.firebaseio.com'
   - '+.jwpcdn.com'
   - '+.jwplayer.com'
-  - '+.mobileanalytics.us-east-1.amazonaws.com'
   - '+.nowe.com'
   - '+.viu.com'
   - '+.viu.tv'
@@ -217,7 +216,7 @@ payload:
   # > Youtube
   - '+.com.google.android.youtube'
   - '+.com.google.android.youtube.tv'
-  - '+.youtube.com
+  - '+.youtube.com'
   - '+.yt3.ggpht.com'
   - '+.googlevideo.com'
   - '+.gvt2.com'
